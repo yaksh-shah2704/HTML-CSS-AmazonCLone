@@ -7,10 +7,10 @@ Authon name: Yaksh Shah
 <h4><i>A frontend replica of Amazon’s homepage built using HTML & CSS. This project focuses on UI design and responsive web development.</i></h4>
 
 <h>📌 Features</h3>
-✔️ Fully structured HTML layout
-✔️ Styled with CSS Flexbox & Grid
-✔️ Responsive design for mobile & desktop
-✔️ Interactive hover effects & navigation bar
+✔️ Fully structured HTML layout <br>
+✔️ Styled with CSS Flexbox & Grid <br>
+✔️ Responsive design for mobile & desktop <br>
+✔️ Interactive hover effects & navigation bar <br>
 
 <h3>🛠 Tech Stack</h3>
 HTML5 – Structuring the webpage
