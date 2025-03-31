@@ -6,19 +6,19 @@ Authon name: Yaksh Shah
 <h2><b>Amazon UI Clone 🛒</b></h2>
 <h4><i>A frontend replica of Amazon’s homepage built using HTML & CSS. This project focuses on UI design and responsive web development.</i></h4>
 
-<h>📌 Features</h3>
+<h>📌 Features</h3> <br>
 ✔️ Fully structured HTML layout <br>
 ✔️ Styled with CSS Flexbox & Grid <br>
 ✔️ Responsive design for mobile & desktop <br>
 ✔️ Interactive hover effects & navigation bar <br>
 
-<h3>🛠 Tech Stack</h3>
-HTML5 – Structuring the webpage
-CSS3 – Styling & responsiveness
+<h3>🛠 Tech Stack</h3><br>
+HTML5 – Structuring the webpage <br>
+CSS3 – Styling & responsiveness <br>
 
-<h3>🚀 Future Enhancements</h3>
-🔹 Add JavaScript for dynamic interactions
-🔹 Implement backend for authentication & cart system
+<h3>🚀 Future Enhancements</h3> <br>
+🔹 Add JavaScript for dynamic interactions <br>
+🔹 Implement backend for authentication & cart system <br>
 
 
 <h2>💡 Contributing</h2>
