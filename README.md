@@ -12,7 +12,7 @@ Authon name: Yaksh Shah
 ✔️ Responsive design for mobile & desktop <br>
 ✔️ Interactive hover effects & navigation bar <br>
 
-<h3>🛠 Tech Stack</h3><br>
+<h3>🛠 Tech Stack</h3>
 HTML5 – Structuring the webpage <br>
 CSS3 – Styling & responsiveness <br>
 
