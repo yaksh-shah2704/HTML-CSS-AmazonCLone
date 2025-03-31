@@ -16,7 +16,7 @@ Authon name: Yaksh Shah
 HTML5 – Structuring the webpage <br>
 CSS3 – Styling & responsiveness <br>
 
-<h3>🚀 Future Enhancements</h3> <br>
+<h3>🚀 Future Enhancements</h3>
 🔹 Add JavaScript for dynamic interactions <br>
 🔹 Implement backend for authentication & cart system <br>
 
