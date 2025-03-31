@@ -1,5 +1,5 @@
 # HTML-CSS-AmazonCLone
-My First Clo9ne Website using HTML-CSS
+My First Clone Website using HTML-CSS
 <br>
 Authon name: Yaksh Shah
 
