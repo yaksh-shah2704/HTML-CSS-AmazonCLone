@@ -1,7 +1,7 @@
 # HTML-CSS-AmazonCLone
 My First Clone Website using HTML-CSS
 <br>
-Authon name: Yaksh Shah
+Authon name: Yaksh Shah(CSE)
 
 <h2><b>Amazon UI Clone 🛒</b></h2>
 <h4><i>A frontend replica of Amazon’s homepage built using HTML & CSS. This project focuses on UI design and responsive web development.</i></h4>
